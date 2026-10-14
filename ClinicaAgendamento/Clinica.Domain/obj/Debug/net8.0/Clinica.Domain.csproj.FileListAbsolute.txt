@@ -1,0 +1,11 @@
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\bin\Debug\net8.0\Clinica.Domain.deps.json
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\bin\Debug\net8.0\Clinica.Domain.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\bin\Debug\net8.0\Clinica.Domain.pdb
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.AssemblyInfoInputs.cache
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.AssemblyInfo.cs
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\refint\Clinica.Domain.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.pdb
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Domain\obj\Debug\net8.0\ref\Clinica.Domain.dll

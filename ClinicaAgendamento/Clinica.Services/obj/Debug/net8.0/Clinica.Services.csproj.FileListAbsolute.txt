@@ -1,0 +1,17 @@
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\bin\Debug\net8.0\Clinica.Services.deps.json
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\bin\Debug\net8.0\Clinica.Services.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\bin\Debug\net8.0\Clinica.Services.pdb
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\bin\Debug\net8.0\Clinica.Domain.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\bin\Debug\net8.0\Clinica.Infrastructure.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\bin\Debug\net8.0\Clinica.Domain.pdb
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\bin\Debug\net8.0\Clinica.Infrastructure.pdb
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica.Services.csproj.AssemblyReference.cache
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica.Services.AssemblyInfoInputs.cache
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica.Services.AssemblyInfo.cs
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica.Services.csproj.CoreCompileInputs.cache
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica..D624F0B2.Up2Date
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica.Services.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\refint\Clinica.Services.dll
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\Clinica.Services.pdb
+C:\Users\USUÁRIO\Downloads\Projeto\ClinicaAgendamento\Clinica.Services\obj\Debug\net8.0\ref\Clinica.Services.dll
